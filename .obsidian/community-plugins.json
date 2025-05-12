@@ -1,11 +1,11 @@
 [
   "obsidian-plantuml",
-  "map-of-content",
   "obsidian-importer",
   "obsidian-mind-map",
   "editing-toolbar",
   "obsidian-banners",
   "obsidian-dangling-links",
   "github-sync",
-  "image-converter"
+  "image-converter",
+  "quick-latex"
 ]

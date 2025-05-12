@@ -1,18 +1,38 @@
 {
 	"nodes":[
-		{"id":"e20e7fe0e680857a","x":-300,"y":-80,"width":250,"height":60,"type":"text","text":"人工智能\n"},
-		{"id":"bcc73a13f97b91e0","x":-129,"y":100,"width":250,"height":60,"type":"text","text":"英语兔"},
-		{"id":"27c153bbd35a564c","x":80,"y":-110,"width":250,"height":60,"type":"text","text":"高等数学"},
-		{"id":"b92c98cefb40742d","x":-191,"y":-301,"width":250,"height":60,"type":"text","text":"python"},
-		{"id":"0316d1e7c02a5d08","x":-755,"y":255,"width":375,"height":105,"type":"file","file":"周易/六壬.md"},
-		{"id":"5e1c722857c9fafa","x":-680,"y":70,"width":250,"height":60,"type":"text","text":"易经"},
-		{"id":"25039eaa22da097d","x":-740,"y":-132,"width":250,"height":60,"type":"text","text":"六爻"}
+		{"id":"e20e7fe0e680857a","type":"text","text":"人工智能\n","x":-300,"y":-80,"width":250,"height":60,"color":"4"},
+		{"id":"27c153bbd35a564c","type":"text","text":"高等数学","x":80,"y":-110,"width":250,"height":60,"color":"5"},
+		{"id":"b92c98cefb40742d","type":"text","text":"python","x":-191,"y":-301,"width":250,"height":60,"color":"6"},
+		{"id":"3dc91846fa1126cc","type":"file","file":"人工智能/英语/英语兔/1. 英语语法综述.md","x":-1840,"y":1220,"width":400,"height":400},
+		{"id":"87f0c646c87f592a","type":"file","file":"人工智能/英语/英语兔/2. 动词分类.md","x":-1300,"y":1220,"width":400,"height":400},
+		{"id":"ee1bf8827d2472ce","type":"file","file":"人工智能/英语/英语兔/3. 动词的时态.md","x":-765,"y":1220,"width":400,"height":400},
+		{"id":"5e09d30553ef8ac1","type":"file","file":"人工智能/英语/英语兔/4. 动词的语气(虚拟语气).md","x":-204,"y":1220,"width":400,"height":400},
+		{"id":"e2c5311ce5885bbc","type":"file","file":"人工智能/英语/英语兔/5. 非谓语动词.md","x":330,"y":1220,"width":400,"height":400},
+		{"id":"e4d70897f2f29254","type":"file","file":"人工智能/英语/英语兔/6. 独立主格.md","x":880,"y":1220,"width":400,"height":400},
+		{"id":"4d545f9543be7ebe","type":"file","file":"人工智能/英语/英语兔/7. 助动词&情态动词.md","x":1440,"y":1220,"width":400,"height":400},
+		{"id":"49418281b1716119","type":"file","file":"人工智能/英语/英语兔/8. 系动词.md","x":2000,"y":1220,"width":400,"height":400},
+		{"id":"2e66801d9179e38d","type":"file","file":"人工智能/英语/英语兔/9. 使役动词.md","x":2560,"y":1220,"width":400,"height":400},
+		{"id":"bcc73a13f97b91e0","type":"text","text":"英语兔","x":-254,"y":560,"width":250,"height":50,"color":"1"},
+		{"id":"0316d1e7c02a5d08","type":"file","file":"周易/六壬.md","x":-2015,"y":240,"width":375,"height":105},
+		{"id":"5e1c722857c9fafa","type":"text","text":"易经","x":-1690,"y":-50,"width":250,"height":60,"color":"2"},
+		{"id":"25039eaa22da097d","type":"text","text":"六爻","x":-2015,"y":-331,"width":250,"height":60},
+		{"id":"3815e6ab45239f3a","type":"file","file":"人工智能/英语/英语兔/10. 从句.md","x":-1840,"y":1760,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"9d2ca352b6c11be4","fromNode":"e20e7fe0e680857a","fromSide":"right","toNode":"27c153bbd35a564c","toSide":"left"},
 		{"id":"700d0511279921f8","fromNode":"e20e7fe0e680857a","fromSide":"bottom","toNode":"bcc73a13f97b91e0","toSide":"top"},
 		{"id":"0e01ec3585f99e2a","fromNode":"e20e7fe0e680857a","fromSide":"top","toNode":"b92c98cefb40742d","toSide":"bottom"},
 		{"id":"185986ae32b92711","fromNode":"5e1c722857c9fafa","fromSide":"bottom","toNode":"0316d1e7c02a5d08","toSide":"top"},
-		{"id":"da03354a0dc9c193","fromNode":"5e1c722857c9fafa","fromSide":"top","toNode":"25039eaa22da097d","toSide":"bottom"}
+		{"id":"da03354a0dc9c193","fromNode":"5e1c722857c9fafa","fromSide":"top","toNode":"25039eaa22da097d","toSide":"bottom"},
+		{"id":"b4f223c7cd664b92","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"3dc91846fa1126cc","toSide":"top"},
+		{"id":"eafbe6e3221fd1fd","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"3815e6ab45239f3a","toSide":"top"},
+		{"id":"ee657b6e1f97a51c","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"87f0c646c87f592a","toSide":"top"},
+		{"id":"c0c0b39409014443","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"ee1bf8827d2472ce","toSide":"top"},
+		{"id":"e14bc12a90ffdd14","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"5e09d30553ef8ac1","toSide":"top"},
+		{"id":"d868e46471dee478","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"e2c5311ce5885bbc","toSide":"top"},
+		{"id":"3ffbe21c0db756bc","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"e4d70897f2f29254","toSide":"top"},
+		{"id":"a3f9311814829c62","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"4d545f9543be7ebe","toSide":"top"},
+		{"id":"6649906626cedb58","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"49418281b1716119","toSide":"top"},
+		{"id":"a19d2ef508b16e91","fromNode":"bcc73a13f97b91e0","fromSide":"bottom","toNode":"2e66801d9179e38d","toSide":"top"}
 	]
 }
