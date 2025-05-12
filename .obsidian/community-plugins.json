@@ -5,7 +5,7 @@
   "editing-toolbar",
   "obsidian-banners",
   "obsidian-dangling-links",
-  "github-sync",
   "image-converter",
-  "quick-latex"
+  "quick-latex",
+  "github-sync"
 ]
