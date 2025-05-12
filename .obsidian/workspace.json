@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40d595e9823b5828",
+        "id": "ca5e055edc8dc3c2",
         "type": "tabs",
         "children": [
           {
-            "id": "820789662f00a46b",
+            "id": "2949a08c49804b58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/英语/英语兔/10. 从句.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. 从句"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/英语/英语兔/10. 从句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "10. 从句 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/英语/英语兔/10. 从句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "10. 从句 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,17 +136,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/英语/英语兔/10. 从句.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10. 从句 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "81a24261ed99759e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,14 +172,18 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "github-sync:Sync with Remote": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "820789662f00a46b",
+  "active": "2949a08c49804b58",
   "lastOpenFiles": [
+    "Windows注册表/隐藏资源管理器侧边栏.md",
+    "Windows注册表/附件/image.png",
+    "Windows注册表/附件",
+    "人工智能/英语/英语兔/10. 从句.md",
     "从句的分类.md",
     "人工智能/附件/Exported image 20250512104637-0.png",
-    "人工智能/英语/英语兔/10. 从句.md",
     "知识图谱.canvas",
     "人工智能/英语/英语兔/2. 动词分类.md",
     "人工智能/英语/英语兔/1. 英语语法综述.md",
@@ -196,7 +203,6 @@
     "人工智能/附件/Exported image 20250512105129-77.png",
     "人工智能/附件/Exported image 20250512105127-76.png",
     "人工智能/附件/Exported image 20250512105125-75.png",
-    "人工智能/附件/Exported image 20250512105123-74.png",
     "人工智能/附件",
     "人工智能/英语/英语兔",
     "OneNote/我的笔记本/人工智能",
@@ -218,8 +224,6 @@
     "人工智能/英语/英语兔/英语语法综述.md",
     "人工智能/英语/英语兔",
     "人工智能/Python",
-    "人工智能/高数",
-    "Windows注册表/隐藏资源管理器侧边栏.md",
-    "Windows注册表"
+    "人工智能/高数"
   ]
 }
