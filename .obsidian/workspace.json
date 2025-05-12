@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5e055edc8dc3c2",
+        "id": "bcf37ecaebccda64",
         "type": "tabs",
         "children": [
           {
-            "id": "2949a08c49804b58",
+            "id": "9ffb45f28570b529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Windows注册表/隐藏资源管理器侧边栏.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "隐藏资源管理器侧边栏"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Windows注册表/隐藏资源管理器侧边栏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "隐藏资源管理器侧边栏 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Windows注册表/隐藏资源管理器侧边栏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "隐藏资源管理器侧边栏 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Windows注册表/隐藏资源管理器侧边栏.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "隐藏资源管理器侧边栏 的大纲"
             }
           },
           {
@@ -176,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2949a08c49804b58",
+  "active": "9ffb45f28570b529",
   "lastOpenFiles": [
     "Windows注册表/隐藏资源管理器侧边栏.md",
     "Windows注册表/附件/image.png",
