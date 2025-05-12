@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "7138a9d43ae3da6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bbc30b0ad338d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5a528421716c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "周易/六壬.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "六壬"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07267a3aa0e1d482",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7fe9793ce061b47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564179764f7e7315",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b8f97d7c113356f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c6f0c76764fa0189",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f1c2e5aada3200f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6efb1c4d98bf252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b7f38ae705e2f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人工智能/英语/英语兔/从句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "从句 的反向链接列表"
+            }
+          },
+          {
+            "id": "9c3d90b8d6b9053c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人工智能/英语/英语兔/英语语法综述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "英语语法综述 的出链列表"
+            }
+          },
+          {
+            "id": "56db9cdee3d13382",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "388db67f2f64f8c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人工智能/英语/英语兔/从句.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "从句 的大纲"
+            }
+          },
+          {
+            "id": "33426d7f5877531a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "962c6ca7df9c033e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bc6350fb53e47dc",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
+      },
+      {
+        "id": "670eca6b8db9a3e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4c091598bd5120",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {},
+              "icon": "broken-link",
+              "title": "Dangling links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "564179764f7e7315",
+  "lastOpenFiles": [
+    "知识图谱.canvas",
+    "人工智能/英语/英语兔/3. 动词的时态.md",
+    "人工智能/英语/英语兔/1. 英语语法综述.md",
+    "人工智能/英语/英语兔/4. 动词的语气(虚拟语气).md",
+    "人工智能/英语/英语兔/10. 从句.md",
+    "人工智能/英语/英语兔/9. 使役动词.md",
+    "人工智能/英语/英语兔/8. 系动词.md",
+    "人工智能/英语/英语兔/7. 助动词&情态动词.md",
+    "人工智能/英语/英语兔/6. 独立主格.md",
+    "人工智能/英语/英语兔/5. 非谓语动词.md",
+    "人工智能/英语/英语兔/2. 动词分类.md",
+    "人工智能/附件/Exported image 20250512105142-82.png",
+    "人工智能/附件/Exported image 20250512105139-81.png",
+    "人工智能/附件/Exported image 20250512105138-80.png",
+    "人工智能/附件/Exported image 20250512105136-79.png",
+    "人工智能/附件/Exported image 20250512105134-78.png",
+    "人工智能/附件/Exported image 20250512105129-77.png",
+    "人工智能/附件/Exported image 20250512105127-76.png",
+    "人工智能/附件/Exported image 20250512105125-75.png",
+    "人工智能/附件/Exported image 20250512105123-74.png",
+    "人工智能/附件/Exported image 20250512105121-73.png",
+    "人工智能/附件",
+    "人工智能/英语/英语兔",
+    "OneNote/我的笔记本/人工智能",
+    "OneNote/我的笔记本",
+    "OneNote",
+    "周易/六壬.md",
+    "周易/附件",
+    "未命名.md",
+    "2025-05-10.md",
+    "未命名.canvas",
+    "人工智能/英语/英语兔/从句.md",
+    "人工智能/英语/英语兔/助动词&情态动词.md",
+    "人工智能/英语/英语兔/英语语法综述.md",
+    "人工智能/英语/英语兔/使役动词.md",
+    "人工智能/英语/英语兔/系动词.md",
+    "人工智能/英语/英语兔/独立主格.md",
+    "人工智能/英语/英语兔/非谓语动词.md",
+    "人工智能/英语/英语兔/动词的时态.md",
+    "人工智能/英语/英语兔/动词分类.md",
+    "人工智能/英语/英语兔/英语语法综述.md",
+    "人工智能/英语/英语兔",
+    "人工智能/Python",
+    "人工智能/高数",
+    "Windows注册表/隐藏资源管理器侧边栏.md",
+    "Windows注册表/开机黑屏.md",
+    "Windows注册表"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e20e7fe0e680857a","x":-300,"y":-80,"width":250,"height":60,"type":"text","text":"人工智能\n"},
+		{"id":"bcc73a13f97b91e0","x":-129,"y":100,"width":250,"height":60,"type":"text","text":"英语兔"},
+		{"id":"27c153bbd35a564c","x":80,"y":-110,"width":250,"height":60,"type":"text","text":"高等数学"},
+		{"id":"b92c98cefb40742d","x":-191,"y":-301,"width":250,"height":60,"type":"text","text":"python"},
+		{"id":"0316d1e7c02a5d08","x":-755,"y":255,"width":375,"height":105,"type":"file","file":"周易/六壬.md"},
+		{"id":"5e1c722857c9fafa","x":-680,"y":70,"width":250,"height":60,"type":"text","text":"易经"},
+		{"id":"25039eaa22da097d","x":-740,"y":-132,"width":250,"height":60,"type":"text","text":"六爻"}
+	],
+	"edges":[
+		{"id":"9d2ca352b6c11be4","fromNode":"e20e7fe0e680857a","fromSide":"right","toNode":"27c153bbd35a564c","toSide":"left"},
+		{"id":"700d0511279921f8","fromNode":"e20e7fe0e680857a","fromSide":"bottom","toNode":"bcc73a13f97b91e0","toSide":"top"},
+		{"id":"0e01ec3585f99e2a","fromNode":"e20e7fe0e680857a","fromSide":"top","toNode":"b92c98cefb40742d","toSide":"bottom"},
+		{"id":"185986ae32b92711","fromNode":"5e1c722857c9fafa","fromSide":"bottom","toNode":"0316d1e7c02a5d08","toSide":"top"},
+		{"id":"da03354a0dc9c193","fromNode":"5e1c722857c9fafa","fromSide":"top","toNode":"25039eaa22da097d","toSide":"bottom"}
+	]
+}
