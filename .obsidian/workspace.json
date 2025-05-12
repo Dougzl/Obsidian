@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "周易/六壬.md",
+                "file": "人工智能/英语/英语兔/1. 英语语法综述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "六壬"
+              "title": "1. 英语语法综述"
             }
           }
         ]
@@ -150,19 +150,9 @@
               "icon": "lucide-list",
               "title": "从句 的大纲"
             }
-          },
-          {
-            "id": "33426d7f5877531a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "962c6ca7df9c033e",
@@ -212,11 +202,17 @@
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "564179764f7e7315",
+  "active": "0d5a528421716c63",
   "lastOpenFiles": [
+    "周易/六壬.md",
     "知识图谱.canvas",
     "人工智能/英语/英语兔/3. 动词的时态.md",
     "人工智能/英语/英语兔/1. 英语语法综述.md",
@@ -243,7 +239,6 @@
     "OneNote/我的笔记本/人工智能",
     "OneNote/我的笔记本",
     "OneNote",
-    "周易/六壬.md",
     "周易/附件",
     "未命名.md",
     "2025-05-10.md",
