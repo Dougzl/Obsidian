@@ -11,10 +11,14 @@
             "id": "01acfb4996f3e67a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "人工智能/英语/英语兔/1. 英语语法综述.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1. 英语语法综述"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "人工智能/英语/英语兔/1. 英语语法综述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "1. 英语语法综述 的大纲"
             }
           },
           {
@@ -172,23 +177,21 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-dangling-links:Show dangling links panel": false,
-      "obsidian-git:Open Git source control": false,
-      "media-extended:Open media": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "01acfb4996f3e67a",
   "lastOpenFiles": [
+    "人工智能/英语/英语兔/3. 动词的时态.md",
+    "人工智能/英语/英语兔/2. 动词分类.md",
+    "人工智能/英语/英语兔/4. 动词的语气(虚拟语气).md",
+    "人工智能/英语/英语兔/5. 非谓语动词.md",
     "人工智能/英语/英语兔/1. 英语语法综述.md",
     "人工智能/英语/英语兔/10. 从句.md",
     "人工智能/英语/英语兔/9. 使役动词.md",
     "人工智能/英语/英语兔/8. 系动词.md",
     "人工智能/英语/英语兔/7. 助动词&情态动词.md",
     "人工智能/英语/英语兔/6. 独立主格.md",
-    "人工智能/英语/英语兔/5. 非谓语动词.md",
-    "人工智能/英语/英语兔/4. 动词的语气(虚拟语气).md",
-    "人工智能/英语/英语兔/3. 动词的时态.md",
-    "人工智能/英语/英语兔/2. 动词分类.md",
     "人工智能/英语/英语兔/附件/【P2】英语语法综述.mp4",
     "人工智能/英语/英语兔/附件/【P11】从句.mp4",
     "人工智能/英语/英语兔/附件/【P10】使役动词.mp4",
