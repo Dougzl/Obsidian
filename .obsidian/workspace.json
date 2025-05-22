@@ -178,14 +178,20 @@
       "command-palette:打开命令面板": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "9519c70b34df132c",
+  "active": "81a24261ed99759e",
   "lastOpenFiles": [
+    "人工智能/英语/英语兔/附件/【P2】英语语法综述.mp4",
+    "人工智能/英语/英语兔/1. 英语语法综述.md",
+    "非谓语动词.md",
+    "人工智能/英语/英语兔/5. 非谓语动词.md",
+    "人工智能/英语/英语兔/附件/image-22.png",
+    "人工智能/英语/英语兔/附件/image-21.png",
     "人工智能/英语/英语兔/10. 从句.md",
     "动词.md",
-    "人工智能/英语/英语兔/1. 英语语法综述.md",
     "人工智能/英语/英语兔/附件/image-20.png",
     "人工智能/英语/英语兔/附件/image-19.png",
     "人工智能/英语/英语兔/附件/image-18.png",
@@ -194,8 +200,6 @@
     "人工智能/英语/英语兔/附件/image-15.png",
     "人工智能/英语/英语兔/附件/image-14.png",
     "人工智能/英语/英语兔/附件/image-13.png",
-    "人工智能/英语/英语兔/附件/image-12.png",
-    "人工智能/英语/英语兔/附件/image-11.png",
     "人工智能/英语/英语兔/附件",
     "周易/六壬.md",
     "Windows注册表/隐藏资源管理器侧边栏.md",
@@ -209,7 +213,6 @@
     "人工智能/英语/英语兔/8. 系动词.md",
     "人工智能/英语/英语兔/7. 助动词&情态动词.md",
     "人工智能/英语/英语兔/6. 独立主格.md",
-    "人工智能/英语/英语兔/5. 非谓语动词.md",
     "人工智能/附件",
     "人工智能/英语/英语兔",
     "OneNote/我的笔记本/人工智能",
@@ -227,9 +230,6 @@
     "人工智能/英语/英语兔/独立主格.md",
     "人工智能/英语/英语兔/非谓语动词.md",
     "人工智能/英语/英语兔/动词的时态.md",
-    "人工智能/英语/英语兔/动词分类.md",
-    "人工智能/英语/英语兔/英语语法综述.md",
-    "人工智能/英语/英语兔",
-    "人工智能/Python"
+    "人工智能/英语/英语兔"
   ]
 }
