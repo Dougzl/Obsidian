@@ -1,11 +1,9 @@
 [
   "editing-toolbar",
-  "obsidian-banners",
   "image-converter",
   "obsidian-importer",
-  "media-link-to-html",
   "obsidian-mind-map",
   "obsidian-plantuml",
   "quick-latex",
-  "github-sync"
+  "obsidian-git"
 ]
