@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识图谱.canvas",
+                "file": "人工智能/英语/英语兔/3. 动词的时态.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知识图谱 的大纲"
+              "title": "3. 动词的时态 的大纲"
             }
           },
           {
@@ -170,53 +170,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "5fa9956b8670b299",
+  "active": "f7ae55f606204fc4",
   "lastOpenFiles": [
-    "知识图谱.canvas",
-    "周易/六壬.md",
-    "Windows注册表/隐藏资源管理器侧边栏.md",
-    "Windows注册表/开机黑屏.md",
-    "人工智能/英语/英语兔/28. 英文标点.md",
-    "人工智能/英语/英语兔/27. 主谓一致.md",
-    "人工智能/英语/英语兔/25. 强调.md",
-    "人工智能/英语/英语兔/24. 倒装.md",
-    "人工智能/英语/英语兔/23. 被动.md",
-    "人工智能/英语/英语兔/22. 句子成分&分类.md",
-    "人工智能/英语/英语兔/21. 构词法.md",
-    "人工智能/英语/英语兔/20. 限定词.md",
-    "人工智能/英语/英语兔/19. 叹词.md",
-    "人工智能/英语/英语兔/18. 连词.md",
-    "人工智能/英语/英语兔/16. 形容词.md",
-    "人工智能/英语/英语兔/15. 数词.md",
-    "人工智能/英语/英语兔/14. 代词.md",
-    "人工智能/英语/英语兔/13. 名词.md",
-    "人工智能/英语/英语兔/12. 介词.md",
-    "人工智能/英语/英语兔/11. 冠词.md",
-    "人工智能/英语/英语兔/10. 从句.md",
-    "人工智能/英语/英语兔/9. 使役动词.md",
-    "人工智能/英语/英语兔/3. 动词的时态.md",
-    "人工智能/英语/英语兔/附件/image-50.png",
-    "人工智能/英语/英语兔/附件/image-32.png",
-    "人工智能/英语/英语兔/附件/image-49.png",
-    "人工智能/英语/英语兔/附件/image-48.png",
-    "人工智能/英语/英语兔/附件/image-47.png",
-    "人工智能/英语/英语兔/附件/image-46.png",
-    "人工智能/英语/英语兔/附件/image-45.png",
-    "人工智能/英语/英语兔/附件/image-44.png",
-    "人工智能/英语/英语兔/附件/image-43.png",
-    "人工智能/英语/英语兔/附件/image-42.png",
     "人工智能/英语/英语兔/2. 动词分类.md",
-    "人工智能/英语/英语兔/1. 英语语法综述.md",
-    "人工智能/英语/英语兔/8. 系动词.md"
+    "人工智能/英语/英语兔/3. 动词的时态.md",
+    "人工智能/英语/英语兔/1. 英语语法综述.md"
   ]
 }
