@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "editing-toolbar",
-  "image-converter"
+  "image-converter",
+  "obsidian-importer",
+  "obsidian-plantuml",
+  "quick-latex"
 ]
