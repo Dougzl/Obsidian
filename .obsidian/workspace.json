@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "ff277945b8f8a19f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a3f6a5c1087496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc94465245621f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能/英语/英语兔/2. 动词分类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 动词分类"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "484ecd205cbf386f",
+    "type": "split",
+    "children": [
+      {
+        "id": "88afcd7877db1e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c257a5f899d01abb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f02de2496b4f7d7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cbc91774d30153f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a00d62e293358b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "8482949392a4a09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76bb4092ae772f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人工智能/英语/英语兔/2. 动词分类.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2. 动词分类 的反向链接列表"
+            }
+          },
+          {
+            "id": "f848e6ca4506c598",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人工智能/英语/英语兔/2. 动词分类.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2. 动词分类 的出链列表"
+            }
+          },
+          {
+            "id": "8d001b6f93c54ca5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "483ed375f3a45d52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人工智能/英语/英语兔/2. 动词分类.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2. 动词分类 的大纲"
+            }
+          },
+          {
+            "id": "005cf7933bd2da17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5fc94465245621f5",
+  "lastOpenFiles": [
+    "人工智能/英语/英语兔/2. 动词分类 2.md"
+  ]
+}
