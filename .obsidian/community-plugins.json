@@ -1,11 +1,5 @@
 [
-  "bilibili-embedded-player",
-  "obsidian-importer",
-  "obsidian-mind-map",
-  "obsidian-plantuml",
-  "quick-latex",
-  "surfing",
+  "editing-toolbar",
   "image-converter",
-  "obsidian-git",
-  "editing-toolbar"
+  "obsidian-git"
 ]
